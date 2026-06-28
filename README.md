@@ -44,6 +44,11 @@ This is the starter project of stasis and I have not make any dev board ever bef
 </div>
 </div>
 
+
+<div align="center">
+  <h2> Bill of Materials </h2>
+</div>
+
 | Name | Purpose | Qty | Total (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | C9,C12 | 1uF 10V X5R ±10% 0402 MLCC | 20 | 0.1220 | [Link](https://lcsc.com/product-detail/C14445.html) | JLCPCB |
@@ -66,6 +71,12 @@ This is the starter project of stasis and I have not make any dev board ever bef
 | U4 | ICM-20608-G 6-Axis IMU Accel + Gyro LGA-16 | 2 | 26.3282 | [Link](https://lcsc.com/product-detail/C78569.html) | JLCPCB |
 | Y1 | 12MHz 20pF Crystal Oscillator SMD3225-4P | 7 | 0.6972 | [Link](https://lcsc.com/product-detail/C9002.html) | JLCPCB |
 | PCB Fabrication (Node_Zero)	| 2-layer PCB — the board itself| 	5	| $2.00 |	—	 | JLCPCB |
-| PCBA SMT Assembly|	SMT assembly of all SMD components| 	2| 	$90.95	| —	| JLCPCB |
+| PCBA SMT Assembly|	SMT assembly of all SMD components| 	2| 	$41.63	| —	| JLCPCB |
 | Shipping PCB	| E- Post (Cheapest) | 	- |	$11.74	| — | 	JLCPCB |
 | Total |    |     |     |   $104.69 |    |   |
+
+The project budget is $100 and my BOM is a $4 over that right now. But since I already have another project approved (a PCB business card),and I  order them both together that will cut down on shipping costs and bring the total under $100.
+
+Also, this is my first time building a dev board and I don't have any experience soldering SMD components. Since I don't own a hot plate,So I wouldn't be able to assemble it manually myself and finish the project. So, to stay within that $100 budget, I'm going with PCB assembly instead.
+
+**Project Under Hack Club**
