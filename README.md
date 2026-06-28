@@ -86,7 +86,7 @@ This is the starter project of stasis and I have not make any dev board ever bef
 | PCB Fabrication (Node_Zero)	| 2-layer PCB — the board itself| 	5	| $2.00 |	—	 | JLCPCB |
 | PCBA SMT Assembly|	SMT assembly of all SMD components| 	2| 	$41.63	| —	| JLCPCB |
 | Shipping PCB	| E- Post (Cheapest) | 	- |	$11.74	| — | 	JLCPCB |
-| Total |    |     |     |   $104.69 |    |   |
+| Total |    |     |   $104.69    |   |    |   |
 
 The project budget is $100 and my BOM is a $4 over that right now. But since I already have another project approved (a PCB business card),and I  order them both together that will cut down on shipping costs and bring the total under $100.
 
