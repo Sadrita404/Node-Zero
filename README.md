@@ -95,4 +95,6 @@ The project budget is $100 and my BOM is a $4 over that right now. But since I a
 
 Also, this is my first time building a dev board and I don't have any experience soldering SMD components. Since I don't own a hot plate,So I wouldn't be able to assemble it manually myself and finish the project. So, to stay within that $100 budget, I'm going with PCB assembly instead.
 
+#### Please approve this project it's my first devboard ....
+
 **Project Under Hack Club**
