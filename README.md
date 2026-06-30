@@ -31,6 +31,8 @@ This is the starter project of stasis and I have not make any dev board ever bef
 | <img src="https://github.com/user-attachments/assets/82201565-5987-4f3b-b76d-23958360d7ba" width="250" alt="Design 4" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/49a3e565-4683-4525-ad50-877e70e4a111" width="250" alt="Design 5" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/ebe2ae68-f09d-427b-bc5a-9074a557210c" width="250" alt="Design 6" style="border-radius: 12px;" /> |
 | <img src="https://github.com/user-attachments/assets/f573de86-7bc7-421c-b44a-c3fcfd97c42e" width="250" alt="Design 7" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/74e4c471-734a-4565-bbba-f1cfa434d7ec" width="250" alt="Design 8" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/34bc1832-c449-4a9c-8f76-36aa2b15dab2" width="250" alt="Design 9" style="border-radius: 12px;" /> |
 
+<img width="302" height="585" alt="Screenshot 2026-06-30 at 8 58 29 PM" src="https://github.com/user-attachments/assets/7321814f-3016-483e-bb99-9ba93dc76be5" />
+
 
 <div align="center">
   <h2> Final Look </h2>
